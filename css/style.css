@@ -638,18 +638,3 @@ h1, h2, h3, h4, h5, h6 {
     opacity: 1;
   }
 }
-/*
-	 .header .container {
-		flex-direction: column;
-	 }
-
-	 .header__list {
-		margin-top: 20px;
-		flex-direction: column;
-		text-align: center;
-	 }
-
-	 .welcome {
-		margin-top: -313px;
-	 }
-*/
