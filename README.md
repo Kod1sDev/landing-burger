@@ -1,7 +1,7 @@
 # landing-burger
 Landing page for a burger restaurant. Adaptive layout, modern design, and clean structure.
 
-Demo: https://kod1sdev.github.io/landing-oburger/
+Demo: https://kod1sdev.github.io/landing-burger/
 
 ***
 
