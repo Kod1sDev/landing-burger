@@ -1,7 +1,7 @@
 # landing-burger
 Landing page for a burger restaurant. Adaptive layout, modern design, and clean structure.
 
-Demo: https://landing-burger.netlify.app/
+Demo: https://kod1sdev.github.io/landing-oburger/
 
 ***
 
